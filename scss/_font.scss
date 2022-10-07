@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "BillsJassaBold";
+  src: url("../fonts/PostNoBillsJaffna-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "PT-sansBold";
+  src: url("../fonts/pt-bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "PT-sansRegular";
+  src: url("../fonts/pt-regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PF-displayBold";
+  src: url("../fonts/PlayfairDisplay-Bold.ttf");
+  font-weight: bold;
+}
+$bjBold: "BillsJassaBold";
+$ptBold: "PT-sansBold";
+$ptReg: "PT-sansRegular";
+$pfBold: "PF-displayBold";
